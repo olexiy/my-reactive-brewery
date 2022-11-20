@@ -1,2 +1,5 @@
-package de.olexiy.myreactivebrewery.domain;public enum BeerStyleEnum {
+package de.olexiy.myreactivebrewery.domain;
+
+public enum BeerStyleEnum {
+  LAGER, PILSNER, STOUT, GOSE, PORTER, ALE, WHEAT, IPA, PALE_ALE, SAISON
 }
